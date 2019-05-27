@@ -9,4 +9,6 @@
 7. Similar to the *ngFor, *ngIf also works..
 8. Lifecycle hooks in angular website (different methods and its uses)
 9. The [property] selector is used in CSS to style elements that have that particular property. For example, ```<div property></div>```
-
+10. In order to create an angular module (say view), use command ```ng generate module view```
+11. The view/prefix to the name in the bg generate command actually tells Angular CLI which folder to create the files in. And so, which module the component needs to be associated with. eg: ```ng generate component view/view-component```
+12. 
